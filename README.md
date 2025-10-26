@@ -1,3 +1,31 @@
+# 📋 API de Gerenciamento de Tarefas
+
+## 📖 Sobre o Projeto
+
+Esta é uma API RESTful desenvolvida em **Spring Boot** para gerenciamento de tarefas (To-Do List). O sistema permite realizar operações de CRUD (Create, Read, Delete) para organizar e controlar suas tarefas do dia a dia.
+
+### 🎯 Funcionalidades
+
+- ✅ **Cadastrar** novas tarefas
+- 📝 **Listar** todas as tarefas
+- 🗑️ **Excluir** tarefas concluídas ou desnecessárias
+
+### 🛠️ Tecnologias Utilizadas
+
+**Backend:**
+- Java 21
+- Spring Boot
+- Spring Data JPA
+- Maven
+- Banco de Dados (MySQL/PostgreSQL/H2)
+
+**Frontend:**
+- Vue.js 3
+- Vite
+- Axios (para requisições HTTP)
+
+---
+
 # 🔧 Resolução do Problema de CORS
 
 ## 🔍 1. Descrição do Erro e Sua Causa
